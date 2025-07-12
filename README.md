@@ -1,4 +1,4 @@
-Fake News Detection using NLP and Machine Learning
+Fake News Detection using NLP and Machine Learning:
 
 A machine learning project to classify news articles as **real** or **fake** using Natural Language Processing (NLP) techniques. This beginner-friendly project demonstrates the full ML pipeline: from data cleaning and vectorization to model training and evaluation.
 
@@ -11,7 +11,7 @@ A machine learning project to classify news articles as **real** or **fake** usi
 
 ---
 
-Technologies Used
+Technologies Used:
 
 - Python
 - Pandas, NumPy
@@ -19,14 +19,14 @@ Technologies Used
 - TF-IDF Vectorizer
 - Google Colab
 
- Dataset
+ Dataset:
 
 - Source: [Kaggle - Fake News](https://github.com/Adityarai4646/Fake-News-Detection.git)
 - File Used**: `train.csv`
 - Contains news article text and corresponding labels: `REAL` or `FAKE`.
 
 
-Workflow
+Workflow:
 
 1. Load and explore dataset
 2. Handle missing/null values
@@ -38,7 +38,7 @@ Workflow
 8. Build a function to manually check your own news
 
 
-Example Output
+Example Output:
 
 python
 check_news("NASA discovers a new black hole near Earth!")
